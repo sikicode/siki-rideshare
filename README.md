@@ -32,11 +32,6 @@ Android.
 
 [Simple-Stack](https://github.com/Zhuinden/simple-stack)
 
-[My YT Channel](https://www.youtube.com/channel/UCSwuCetC3YlO1Y7bqVW5GHg)
-
-[Follow me on twitter](https://twitter.com/wiseAss301)
-
-
 
 ## Acknowledgements
 Cyber Shark - Font choice
