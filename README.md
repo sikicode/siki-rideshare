@@ -31,13 +31,3 @@ Android.
 [Firebase Setup](https://firebase.google.com/docs/android/setup)
 
 [Simple-Stack](https://github.com/Zhuinden/simple-stack)
-
-
-## Acknowledgements
-Cyber Shark - Font choice
-
-Josh (CMYUI) - BE consulting
-
-Gabor Varadi (Zhuinden) - Navigation, DI, and Services with Simple-Stack
-
-Jaewoong Eum (Skydoves) - Stream Chat SDK and Flow integration
